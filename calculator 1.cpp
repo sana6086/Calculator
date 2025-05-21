@@ -6,7 +6,7 @@ class temp{
 		int a,b,c;
 		char op;
 		
-		void getValue1();
+		void getValue1(); hgvhgvhgvhg
 		void getValue2();
 		void getOp();
 		void add();
@@ -68,7 +68,7 @@ void temp :: divide(){
 	c = a / b;
 	cout<<a<<" / "<<b<<" :: "<<c<<endl;
 	a = c;
-	b = 0;
+	b = 10;
 }
 void temp :: mul(){
 	c = a * b;
